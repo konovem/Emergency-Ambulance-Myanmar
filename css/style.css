@@ -1,0 +1,26 @@
+#nav-container {
+    background: yellow;
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+}
+
+.active-page {
+    border-bottom: 1px solid black;
+    color: white!important;
+}
+
+.nav-item {
+    margin-right: 50px;
+}
+
+.navbar-toggler:focus, .navbar-toggler:hover {
+    text-decoration: none;
+    outline: none;
+}
+
+.logo-text {
+    font-family: 'Playfair Display', serif;
+}
