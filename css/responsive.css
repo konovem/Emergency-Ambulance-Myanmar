@@ -3,6 +3,11 @@
     .my-heading {
         font-size: 15px;
     }
+
+    .hero-section > h1 {
+        font-size: 35px;
+    }
+
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
